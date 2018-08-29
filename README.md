@@ -2,9 +2,9 @@
 
 Here is my personal site, it contains two pages:
 
--An about me page
+-An 'About Me' page
 
--A Project page with images as placeholders
+-And a 'Project' page with images as placeholders
 
 ## Homepage Wireframe
 ![screen shot](homepage.jpg)
