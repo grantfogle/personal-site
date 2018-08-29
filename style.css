@@ -60,7 +60,7 @@ main {
 }
 
 
-.main-container img {
+#selfie {
     height: 200px;
     width: 200px;
     border-radius: 50%;
@@ -70,8 +70,15 @@ main {
     margin-top: 50px;
 }
 
+.portfolio-image {
+    max-width: 100%;
+    padding: 5px;
+}
+
 .about-section {
-    border: 1px solid #2c3e50;
+    border-bottom: 1px solid #2c3e50;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 .icon-box {
